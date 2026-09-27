@@ -14,7 +14,7 @@ Shadowsocks-Python：3.0.0
 
 > Shadowsocks-Python 3.0.0 是较老的实现，在 Python 3.14 环境需要进行兼容性修改。
 >
-> 以下所有 `YOUR_SERVER_IP`、`YOUR_STRONG_PASSWORD` 均需要替换为自己的信息，不要把真实密码上传到公开 GitHub 仓库。
+第二十项为完整配置清单
 
 ---
 
